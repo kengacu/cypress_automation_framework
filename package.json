@@ -1,0 +1,24 @@
+{
+  "name": "cypress_automation_framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kengacu/cypress_automation_framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kengacu/cypress_automation_framework/issues"
+  },
+  "homepage": "https://github.com/kengacu/cypress_automation_framework#readme",
+  "devDependencies": {
+    "cypress": "^14.5.0"
+  }
+}
